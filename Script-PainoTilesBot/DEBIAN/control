@@ -1,0 +1,10 @@
+Package: org.golde.cydia.Scripts.PainoTiles
+Name: Paino Tiles Bot 6
+Author: Eric Golde
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is a bot that plays paino tiles. Iphone 6 ONLY!
+Homepage: http://eric.golde.org/cydia
+Maintainer: Eric Golde
+Section: ECR_Scripts
+Depends: me.autotouch.autotouch.ios8
